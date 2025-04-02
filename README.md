@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oktasaputra
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning about Go and React JS
+- 👀 I’m interested in web development and APIs
+- 🌱 I’m currently work with .NET etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
